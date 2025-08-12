@@ -1,6 +1,7 @@
-# UTN-PROGRAMACION-2
+# UTN - TECNICATURA EN PROGRAMACIÓN
+#        - PROGRAMACIÓN 2 -
 Repositorio de la carrera Tecnicatura en Programación de la UTN.
-Segundo cuatrimestre de primer año.
+Cohorte Marzo 2025.
 
 Alumno: Cristian Andres Serna
 Comision: 2
