@@ -1,5 +1,5 @@
 # UTN - TECNICATURA EN PROGRAMACIÓN
-#        - PROGRAMACIÓN 2 -
+  # - PROGRAMACIÓN 2 -
 Repositorio de la carrera Tecnicatura en Programación de la UTN.
 Cohorte Marzo 2025.
 
